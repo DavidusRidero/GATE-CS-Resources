@@ -5,7 +5,7 @@
 | [C](#c)                          | [Pankaj Sir](https://drive.google.com/drive/folders/17G2pISiZWzAUoASwt2LA7ObSnBXu84Ge)              |
 | [Digital Logic](#digital-logic)  | [Amit Sir](https://drive.google.com/drive/folders/1smY_m7zMYEEv6BTXR4lLoAhBwknZWvp0?usp=drive_link) |
 | [Data Structures](#data-structures) | [Pankaj Sir](https://drive.google.com/drive/folders/17HEDd3uAGLVCEGjrMsZSZ7Q0qnVDIAIX)          |
-| [COA](#coa)                      | [Vishwadeep Sir](https://drive.google.com/drive/folders/1uR_LsixWdv8PJMvXwY_NSvQc-uIWcjw7)          |
+| [COA](#coa)                      | Vishwadeep Sir          |
 | [Algorithms](#algorithms)        | [Reddy Sir](https://drive.google.com/drive/folders/1I6U4z04LbfhpeNLhKQzTywMrAXJOojbH)               |
 | [Database Management Systems](#database-management-systems) | [Vijay Sir](https://drive.google.com/drive/folders/1i4tMWMxWJ1JJ-zApBx8SjO-TYoL-SGFV) |
 | [Theory of Computation](#theory-of-computation) | [Deva Sir](https://drive.google.com/drive/folders/151H9o9OfpTQI2UxXFdoGpu2RnQKcJdrW) |
@@ -26,6 +26,7 @@
 + [Made Easy 2021](https://drive.google.com/drive/folders/0B20-WHejVtXhfjRwZGs1ZlF5V0ZWTUdOd3k5YjdBSThwSlpwZlRveFpib2ZKZ0x0bW9qTEk?resourcekey=0-EBLO5ZY5CbItaz8WooKxKA)
 + [Made Easy 2020](https://drive.google.com/drive/folders/0B20-WHejVtXhflNzR2ZOSDJYUTlrbXI3SzNneVF1QkEyZFJ6OXJXMDVEa0tDYm4tRmpOUDQ?resourcekey=0-b0ujKgqrv4b02d86mXlwCA)
 + [Made Easy 2019](https://drive.google.com/drive/folders/0B20-WHejVtXhfnV1eWVsX2NDTTdzXzdOR1BVTWdHb3JEQzZ2Tm8wWTllajBTbTVLZVlCSDA?resourcekey=0-V7ypLTCjKDauGvclejf53Q)
+  + Only the "PDFs" has content in it.
 
 #### Applied Roots
 + [Applied Roots 2021](https://drive.google.com/drive/folders/0B20-WHejVtXhfjNqcmFfMFZSbWtfM1FHcGM1em5hX0JEOC1ENWZGU3lpdnhtTmg2WUpMZzg?resourcekey=0-n05g0JrKzjscg-m8C18j7Q)
