@@ -5,3 +5,4 @@
 + For CN (by Ankit Doyla), in IPv4 Header Fragmentation, Lecture number 4 and 6 are missing.
 ## 9th September 2025
 + Under Discrete Mathematics Workbooks, MadeEasy workbook isnt available.
++ Under Engineering Mathematics, PW Puneet Sir lectures have been taken down for copyright violationsd.
