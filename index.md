@@ -432,7 +432,7 @@
 + [GateZeal](https://drive.google.com/drive/folders/0B20-WHejVtXhfjBwbHlGeEJGVUhuS2JrYXE1ZE0wek1vSGx5LW5sLXpWMExRX3JrRVh3b3c?resourcekey=0-ziJqGLYw7BM8vOwejvoNaw)
 
 #### WorkBook
-+ (Empty Folder)~~[Made Easy](https://drive.google.com/drive/folders/1PQvASsiyxT_oxntCpCL4oAHlJxVztfVl)~~
++ (Empty Folder) ~~[Made Easy](https://drive.google.com/drive/folders/1PQvASsiyxT_oxntCpCL4oAHlJxVztfVl)~~
 + [Made Easy Solutions](https://drive.google.com/file/d/15DlvRB4vqj-iAD9TJ1h81n7_BXc9GEw8/view?usp=drivesdk)
 + [Super 1500 Solved Questions](https://drive.google.com/drive/folders/16ckO5iudw58GbFmqXlved_oQSI3j1wEF)
 + [Made Easy RIB](https://drive.google.com/file/d/10R5Kr7WnIcYeBqe23Ayml0ioDj9l1m6r/view?usp=drivesdk)
@@ -443,7 +443,7 @@
 #### Lectures
 + [Go Classes (Free on Go Website)](https://www.goclasses.in/courses/Engineering-Mathematics-60fdd8530cf2c7989e1f109d)
 + [Shrenik Jain](https://drive.google.com/drive/folders/1stBxNAW7ptCFNS868szB8Bk8l7mVpidO)
-+ [PW Puneet Sir](https://drive.google.com/drive/folders/1o1F9zkEZqH4WGlyZf7d03iv9ON9tGSFL?usp=drive_link)
++ (Copyright Strike) ~~[PW Puneet Sir](https://drive.google.com/drive/folders/1o1F9zkEZqH4WGlyZf7d03iv9ON9tGSFL?usp=drive_link)~~
 + [Made Easy](https://drive.google.com/drive/folders/1r3hwPUfHeo3d0kPaozlo02y6ljxifGuG)
 
 #### Notes
