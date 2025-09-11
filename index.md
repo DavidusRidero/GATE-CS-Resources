@@ -460,8 +460,8 @@
 + [GateZeal](https://drive.google.com/drive/folders/0B20-WHejVtXhfnJuYVBuMTlwU3gzdERxVE1HcGo5aGhWZ1RuUzJzNkxPY3FmSGlwQkczZmc?resourcekey=0-M0yX1WUHmyFlM4Ns8NJb_g)
 
 #### WorkBook
-+ [Made Easy](https://drive.google.com/drive/folders/1KBySvHK2x3NgERSjs_GP8_Vi_ytu_0wN)
++ (Empty Folder)~~[Made Easy](https://drive.google.com/drive/folders/1KBySvHK2x3NgERSjs_GP8_Vi_ytu_0wN)~~
 + [Super 1500 Solved Questions](https://drive.google.com/drive/folders/1AbXsqEebZmzeSYohnZaXWL8ppUGB284J)
-+ [Made Easy RIB](https://drive.google.com/file/d/1pte-kqz1MIxc-hjM54sCd4EtArXRohxZ/view?usp=drivesdk)
++ (Copyright Strike)~~[Made Easy RIB](https://drive.google.com/file/d/1pte-kqz1MIxc-hjM54sCd4EtArXRohxZ/view?usp=drivesdk)~~
 + [Unacademy](https://drive.google.com/file/d/1KKuRSZiczEvBQ6Sa_3i5aQaMXzXSOQAs/view?usp=drivesdk)
 + [Shreyank Jain Solved Questions and Previous Year Questions](https://drive.google.com/drive/folders/1s8Mr6eSlkwTTqaY2Kvl87z1U5vIbS9jx)
