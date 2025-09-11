@@ -1,4 +1,8 @@
 # Changelog
+## 11th September 2025
++ Under Engineering Mathematics, under Workbook section, Made Easy link leads to an empty folder.
++ Under Engineering Mathematics, under Workbook section, Made Easy RIB content has been taken down.
+
 ## 9th September 2025
 + Under Discrete Mathematics Workbooks, MadeEasy workbook isnt available.
 + Under Engineering Mathematics, PW Puneet Sir lectures have been taken down for copyright violationsd.
