@@ -1,4 +1,21 @@
+# [SITE](https://davidusridero.github.io/GATE-CS-Resources/)
 # Changelog
+
+## 14th September 2025
++ Under Computer Organization and Architerchture
+  + Under Lectures,
+    + PhysicsWallah Super 1500 2025 is taken down.
+    + PhysicsWallah Super 1500 2024 is taken down.
+    + VIshwadeep Gothi Sir's link leads to an empty folder.
+  + Under Notes,
+    + Unacademy's Textbook leads to an empty folder.
+    + Made Easy's Handwritten Notes has been taken down.
+  + Under DPP,
+    + Unacademy's DPP has been taken down.
+  + Under WorkBooks,
+    + Made Easy's Workbook and its Solutions have been taken down.
+    + Unacademy's Workbook has been taken down.
+
 ## 11th September 2025
 + Under Engineering Mathematics, under Workbook section, Made Easy link leads to an empty folder.
 + Under Engineering Mathematics, under Workbook section, Made Easy RIB content has been taken down.
