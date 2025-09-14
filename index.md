@@ -115,10 +115,10 @@
 ### COA
 
 #### Lectures
-+ [PW Super 1500 2025](https://drive.google.com/drive/folders/0B5VNjNWvWp7GfnJhS0FZY0stMThVVlZOSFZoc01LS00zeUhpcy1aNjBJTjZoT29wOVJKOGs?resourcekey=0-mECpQsAZJ4EnqJCW4v330A)
-+ [PW Super 1500 2024](https://drive.google.com/drive/folders/0B5VNjNWvWp7GflVoemVWNndTSkt6bllkQ093MGwtYTFLYTVHZEtHYXJ1TERjSjJrWkpfeE0?resourcekey=0-2OWBrB2i5weusXmYcLh4Qw)
++ (Taken Down) ~~[PW Super 1500 2025](https://drive.google.com/drive/folders/0B5VNjNWvWp7GfnJhS0FZY0stMThVVlZOSFZoc01LS00zeUhpcy1aNjBJTjZoT29wOVJKOGs?resourcekey=0-mECpQsAZJ4EnqJCW4v330A)~~ 
++ (Taken Down) ~~[PW Super 1500 2024](https://drive.google.com/drive/folders/0B5VNjNWvWp7GflVoemVWNndTSkt6bllkQ093MGwtYTFLYTVHZEtHYXJ1TERjSjJrWkpfeE0?resourcekey=0-2OWBrB2i5weusXmYcLh4Qw)~~
 + [Go Classes 24](https://drive.google.com/drive/folders/1tOQJYijAXI7Lbi7jExbXNuNmkrvfL3mC)
-+ [Vishwadeep Gothi Sir](https://drive.google.com/drive/folders/1uR_LsixWdv8PJMvXwY_NSvQc-uIWcjw7)
++ (Empty Folder) ~~[Vishwadeep Gothi Sir](https://drive.google.com/drive/folders/1uR_LsixWdv8PJMvXwY_NSvQc-uIWcjw7)~~
 
 #### Notes
 + [Reference Materials Random](https://drive.google.com/drive/folders/1hJHyY8Gh4IqbrebKSOOEFtfrCjbiOH5Q)
@@ -128,20 +128,20 @@
 + [RBR Handwritten](https://drive.google.com/file/d/1VNqvSXf61Nvj8nsRZtPcTwp86O5x54xc/view?usp=drivesdk)
 + [Computer Organization by Carl Hamacher](https://drive.google.com/file/d/1RsJqcxnTcpooMOF3vJnKCtnaumxG88YQ/view?usp=drivesdk)
 + [Applied Gate Handwritten](https://drive.google.com/file/d/1ClWVRZFGDiY1DNe8I5_mZy0Er7oF90w1/view?usp=drivesdk)
-+ [Unacademy Textbook](https://drive.google.com/drive/folders/1KpsQsudE3_TlhskXtFtbKaURl3Kjb6yN)
-+ [Made Easy Handwritten](https://drive.google.com/file/d/1JZ1RVv8q16UooYPr9I7GZt_cWt_ctzpg/view?usp=drivesdk)
++ (Empty Folder) ~~[Unacademy Textbook](https://drive.google.com/drive/folders/1KpsQsudE3_TlhskXtFtbKaURl3Kjb6yN)~~
++ (Taken Down) ~~[Made Easy Handwritten](https://drive.google.com/file/d/1JZ1RVv8q16UooYPr9I7GZt_cWt_ctzpg/view?usp=drivesdk)~~
 
 #### Daily Practice Problems
 + [PW Daily Practice Problems](https://drive.google.com/drive/folders/0B20-WHejVtXhfllKZXJGY1dVOFU0VktReWJSYnpGaFgzZzZTdF9UQXdwMkFrQ2JpbmtqTUE?resourcekey=0-aBV_YUoZn0o4PSoHyHqfMw)
 + [GateZeal](https://drive.google.com/drive/folders/0B20-WHejVtXhfmZ1N2NOV19mSmMtWUlaU3Bfd2lBVnJkQVc3anB1b3UxLTZiSGppTHdKbEU?resourcekey=0-jR1BzwdpBRlwlnxE68UwrQ)
-+ [Unacademy](https://drive.google.com/file/d/1VxKwnkYcmaCWsxokeQKnx5Pm2rzJ45Cq/view?usp=drivesdk)
++ (Taken Down) ~~[Unacademy](https://drive.google.com/file/d/1VxKwnkYcmaCWsxokeQKnx5Pm2rzJ45Cq/view?usp=drivesdk)~~
 
 #### WorkBook
-+ [Made Easy](https://drive.google.com/drive/folders/1YcMUuAF5ODT6shsXweN4O255QWk1GrlI)
++ (Empty Folder) ~~[Made Easy](https://drive.google.com/drive/folders/1YcMUuAF5ODT6shsXweN4O255QWk1GrlI)~~
 + [Made Easy Answer Key](https://drive.google.com/file/d/1zVcpoTFR7-bD33tLH5cWcFhbXG4JMBG1/view?usp=drivesdk)
 + [Super 1500 Solved Questions](https://drive.google.com/drive/folders/17OkJBrB_py8E4pf0spVguOGf8yWtzcMF)
-+ [Made Easy Solutions](https://drive.google.com/file/d/17Hg8sXNCjopgvjTU8cJ7hAGtUPbpUhgB/view?usp=drivesdk)
-+ [Unacademy](https://drive.google.com/file/d/19jlJMy1k6ImIKcg5CstamTw_0bUmC5VB/view?usp=drivesdk)
++ (Taken Down) ~~[Made Easy Solutions](https://drive.google.com/file/d/17Hg8sXNCjopgvjTU8cJ7hAGtUPbpUhgB/view?usp=drivesdk)~~
++ (Taken Down) ~~[Unacademy](https://drive.google.com/file/d/19jlJMy1k6ImIKcg5CstamTw_0bUmC5VB/view?usp=drivesdk)~~
 + [EPT Solved Questions](https://drive.google.com/file/d/1ssQIn6QNM2M9fkZAExpmn1_aEkCaJqTA/view?usp=drivesdk)
 
 ### Data Structures
