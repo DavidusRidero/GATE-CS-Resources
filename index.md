@@ -86,7 +86,7 @@
 + [Super 1500 PW 2024](https://drive.google.com/drive/folders/14q1T7I2ORyE0hUZynKZvjNOxH-Et_eTi)
 + [Go Classes 24](https://drive.google.com/drive/folders/1qnAyCgQ6Pjslj8Nlj8qfowFVP5-Z9MVW)
 + [Amit Khurana](https://drive.google.com/drive/folders/1smY_m7zMYEEv6BTXR4lLoAhBwknZWvp0?usp=drive_link)
-+ [Made Easy](https://drive.google.com/drive/folders/1vFEI3ydgtuEGhJenC2MyPhbw21_8HRQV)
++ (Empty Folder)~~[Made Easy](https://drive.google.com/drive/folders/1vFEI3ydgtuEGhJenC2MyPhbw21_8HRQV)~~
 + [PW Chandan Sir](https://drive.google.com/drive/folders/1wkQDojPRZcnKTtyzR94YlYxlK4G9Rjzr)
 
 #### Notes
@@ -98,18 +98,18 @@
 + [RBR Handwritten](https://drive.google.com/file/d/1LWNiyLNx--vxqHfEcMynuPBQAmm2ZwmX/view?usp=drivesdk)
 + [Digital Logic and Computer Design by M Mano](https://drive.google.com/file/d/1-UDYDjF4nmKHw0rYB3Cg65kR04q3BcMv/view?usp=drivesdk)
 + [Applied Gate Handwritten](https://drive.google.com/drive/folders/1CaI72sxgRRbvhNMjOjnD4rmLPzPKBhgA)
-+ [Unacademy Textbook](https://drive.google.com/drive/folders/1hs2IzyF7tYo4_Lermxr0wS5Fs7oZQaWw)
++ (Empty Folder) ~~[Unacademy Textbook](https://drive.google.com/drive/folders/1hs2IzyF7tYo4_Lermxr0wS5Fs7oZQaWw)~~
 + [EPT Notes](https://drive.google.com/file/d/1nHMdRZ4eQdBBXM9VpRqZOU13mJALARrQ/view?usp=drivesdk)
 
 #### Daily Practice Problems
 + [PW](https://drive.google.com/drive/folders/0B20-WHejVtXhflNqV0dRNHo5akN5dmpNWEY0RWprc2FEQ0NhcTVSaVRNNFM5OFA2dWdhbFU?resourcekey=0-1eWUcS-6prYu5_UK_HwI3w)
 + [GateZeal](https://drive.google.com/drive/folders/0B20-WHejVtXhfldTZkpaQlVXXzB6cWJmbkpYeHIwSThSNllfajczbzlSNE8xT3FMbG1qVGs?resourcekey=0-5iPN4PnmgKzVhq_AW8TPkQ)
-+ [Unacademy](https://drive.google.com/file/d/1Z0GTcvr3DY_aAfHLDs2FO0EJ7lfowJ2n/view?usp=drivesdk)
++ (Taken Down) ~~[Unacademy](https://drive.google.com/file/d/1Z0GTcvr3DY_aAfHLDs2FO0EJ7lfowJ2n/view?usp=drivesdk)~~
 
 #### WorkBook
 + [PW Super 1500 Solved Questions](https://drive.google.com/drive/folders/1M_yhcln1hEwSzKGS1bXFGF1iAL9tf5Aj)
-+ [Made Easy](https://drive.google.com/drive/folders/1OXQnBUKRcTxEl31SVGy-3WwSQmhyxHAu)
-+ [Made Easy Solutions](https://drive.google.com/file/d/1mNc3jESGuVR3F7B0CegFDPhQAFj31wD-/view?usp=drivesdk)
++ (Taken Down) ~~[Made Easy](https://drive.google.com/drive/folders/1OXQnBUKRcTxEl31SVGy-3WwSQmhyxHAu)~~
++ (Taken Down) ~~[Made Easy Solutions](https://drive.google.com/file/d/1mNc3jESGuVR3F7B0CegFDPhQAFj31wD-/view?usp=drivesdk)~~
 + [EPT Solved Questions](https://drive.google.com/file/d/1_6nrd9w_xitMguEsWj9twOu9HN1LVxRW/view?usp=drivesdk)
 
 ### COA
