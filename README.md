@@ -1,6 +1,11 @@
 # [SITE](https://davidusridero.github.io/GATE-CS-Resources/)
 # Changelog
-
+## 15th September 2025
++ Under DIgital Logic,
+	+ Under Lectures, Made Easy link leads to an empty folder.
+	+ Under Notes, Unacademy Textbook leads to an empty folder.
+	+ Under DPP, Unacademy notes has been taken down.
+	+ Under Workbook, Made Easy Workbook and its Solutions both have been taken down.
 ## 14th September 2025
 + Under Computer Organization and Architerchture
   + Under Lectures,
