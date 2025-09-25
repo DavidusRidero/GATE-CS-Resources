@@ -248,13 +248,13 @@
 ### Compiler Design
 
 #### Lectures
-+ [PW Super 1500 2025](https://drive.google.com/drive/folders/0B5VNjNWvWp7GfnBrWVI5N3NCZ2hPeTVGVkU4RmFhUEFYOXctajBmb0NuaTBhT09aVFk5UDg?resourcekey=0-Wy8u6aj9xOpg6qbxyKX4ZA)
++ (Taken Down) ~~[PW Super 1500 2025](https://drive.google.com/drive/folders/0B5VNjNWvWp7GfnBrWVI5N3NCZ2hPeTVGVkU4RmFhUEFYOXctajBmb0NuaTBhT09aVFk5UDg?resourcekey=0-Wy8u6aj9xOpg6qbxyKX4ZA)~~
 + [Go Classes 24](https://drive.google.com/drive/folders/1DJVaNAdLNLFDJ1HzAjlMQFDD4LoSVPWs)
 + [PW Super 1500](https://drive.google.com/drive/folders/124t9kMO6fK2CEC1SnMY6ULnaj0gav8PQ)
 + [Vishal Sir PW](https://drive.google.com/drive/folders/1nl3ULZ1ug7rI2OFR3JSc55YxO2mBlBnT?usp=drive_link)
-+ [Made Easy Rank Improv Batch](https://drive.google.com/drive/folders/0B5VNjNWvWp7GfkhpRFJObjR5eUJ2YTlpdjdtd0t4ZTNYLU02bVBjUmZBd1Z5RTlzWUU4WFU?resourcekey=0-PQMddHGILHq6qL5mT8af8Q)
++ (Taken Down) ~~[Made Easy Rank Improv Batch](https://drive.google.com/drive/folders/0B5VNjNWvWp7GfkhpRFJObjR5eUJ2YTlpdjdtd0t4ZTNYLU02bVBjUmZBd1Z5RTlzWUU4WFU?resourcekey=0-PQMddHGILHq6qL5mT8af8Q)~~
 + [Deva Sir PW](https://drive.google.com/drive/folders/13L7SwlEtRL22XoebZCtO5KACZGeroCID?usp=drive_link)
-+ [Made Easy Reddy Sir](https://drive.google.com/drive/folders/1wKFKbnhJpgNr0cm6c6VsWMaqkQsjKsDH?usp=drive_link)
++ (Empty Folder) ~~[Made Easy Reddy Sir](https://drive.google.com/drive/folders/1wKFKbnhJpgNr0cm6c6VsWMaqkQsjKsDH?usp=drive_link)~~
 + [Made Easy](https://drive.google.com/drive/folders/1uOjcfxX22Te9ti2Omb-Y8z5TQv9x7QFx)
 + [Venkat Sir PW](https://drive.google.com/drive/folders/1XP7J48TDI5Z-O4cOxQbEKjgK0wKMwK8-)
 
@@ -264,19 +264,19 @@
 + [PW Handwritten Notes](https://drive.google.com/file/d/18oSX_WocVdZ2ZHOL7McVBaY7OjfcnYbn/view?usp=drivesdk)
 + [PW Textbook](https://drive.google.com/file/d/11ypL5j2nLWb6A6sAHGVlF3CdQo7wFKUR/view?usp=drivesdk)
 + [Compiler Design by AV Aho](https://drive.google.com/file/d/1V3ngZ6_yzKFqlw2HUKfVJQiXz8QMHlB_/view?usp=drivesdk)
-+ [Unacademy Textbook](https://drive.google.com/drive/folders/1zA2qiRvCqzxriU0k-dVcDM8d-_A4CWXQ)
++ (Empty Folder) ~~[Unacademy Textbook](https://drive.google.com/drive/folders/1zA2qiRvCqzxriU0k-dVcDM8d-_A4CWXQ)~~
 + [EPT Notes](https://drive.google.com/file/d/1hfYURapanNNB5sP0zBu3mRjFXyBhKfZq/view?usp=drivesdk)
 
 #### DPP
 + [PW](https://drive.google.com/drive/folders/0B20-WHejVtXhfnZVRjc2cU50YXJwakhobFFHNWVoRWtoNTBRNU92MlVWbjlTcFp3bzhwdkE?resourcekey=0-B3pRWckS2IqWbfUKLFj9hw)
-+ [Unacademy](https://drive.google.com/file/d/1Ij-PjzCBNj6bJkBaBVJvYARKINVY-fJx/view?usp=drivesdk)
++ (Copyright Takedown) ~~[Unacademy](https://drive.google.com/file/d/1Ij-PjzCBNj6bJkBaBVJvYARKINVY-fJx/view?usp=drivesdk)~~
 + [GateZeal](https://drive.google.com/drive/folders/0B20-WHejVtXhflc0S1d1WGFNUzh3eDlJUWNibjZJdUFySWRkTEZkN05Qa2dpVmxlSWFiT2c?resourcekey=0-FXM7DcALb7wFcGfTIt7VKg)
 
 #### WorkBook
-+ [Made Easy](https://drive.google.com/drive/folders/16X6pT_0hHyHlVK1zlOKPU7_bbBhEdkkV)
-+ [Made Easy Solutions](https://drive.google.com/file/d/1t0XeYLdCAhG2tu-CW2FqlSnzv542nJW-/view?usp=drivesdk)
++ (Empty Folder) ~~[Made Easy](https://drive.google.com/drive/folders/16X6pT_0hHyHlVK1zlOKPU7_bbBhEdkkV)~~
++ (Copyright Takedown) ~~[Made Easy Solutions](https://drive.google.com/file/d/1t0XeYLdCAhG2tu-CW2FqlSnzv542nJW-/view?usp=drivesdk)~~
 + [Super 1500 Solved Questions](https://drive.google.com/drive/folders/1mZJkXwPYiygFzd4DbpvmWJUsr8utCSuu)
-+ [Unacademy](https://drive.google.com/file/d/1GybmYQPhmzJXCuosY2zbltFxW38P1p65/view?usp=drivesdk)
++ (Copyright Takedown) ~~[Unacademy](https://drive.google.com/file/d/1GybmYQPhmzJXCuosY2zbltFxW38P1p65/view?usp=drivesdk)~~
 + [EPT Solved Questions](https://drive.google.com/file/d/10pcbcCabhuvkRCOF1iC0kLfapd_nbkZX/view?usp=drivesdk)
 ### Operating System
 
